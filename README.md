@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @Harshitmehan2866
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ..C++.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Parmeet Singh 
 
-<!---
-Harshitmehan2866/Harshitmehan2866 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Data Science Enthusiast | 📊 Python & SQL Learner | 🧠 Growth Mindset | 🚀 Aspiring Intern
+
+## 🚀 Skills
+- Python, Pandas, NumPy, Tableau 
+- SQL, Excel, Power BI
+- Git & GitHub
+- OOP, DSA (Learning)
+
+
+## 📚 Current Learning
+- 100 Days of Code – Python Bootcamp 
+- Prompt Engineering
+- Data Structures in Python
+- SQL for Data Analysis
+
+## 🛠️ Projects
+- [ETL Data Pipeline using Pandas](#)  
+ 
+
+
+## 🌱 Goals
+- Get an internship in Data Science 🏢
+- Master Python + ML + DL + SQL + Data science ✅
+- Post more projects on GitHub 📃☺️
+- Build a strong online tech profile 😉💪🏻
+
+
